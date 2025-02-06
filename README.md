@@ -18,8 +18,8 @@
 
 - `pkg install git`
 - `pkg install python python-pip`
-- `git clone https://github.com/BIGBOSS45654/cpmnuker.git`
-- `cd BIGBOSS45654`
+- `git clone https://github.com/Baldan661/Telmunnshop.git`
+- `cd BaldanDev`
 - `pip install -r requirements.txt`
 - `python main.py`
 
