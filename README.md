@@ -19,7 +19,7 @@
 - `pkg install git`
 - `pkg install python python-pip`
 - `git clone https://github.com/Baldan661/Telmunnshop.git`
-- `cd BaldanDev`
+- `cd Telmunnshop`
 - `pip install -r requirements.txt`
 - `python main.py`
 
@@ -29,6 +29,6 @@
 - `apk add python3`
 - `apk add py3-pip`
 - `git clone https://github.com/Baldan661/Telmunnshop.git`
-- `cd BaldanDev`
+- `cd Telmunnshop`
 - `pip install -r requirements.txt`
 - `python3 main.py`
